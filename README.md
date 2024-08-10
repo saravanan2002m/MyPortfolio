@@ -20,9 +20,8 @@ Projects Showcase: Display your projects with details and links to their respect
 
 Skills: List your skills and proficiencies.
 
-About Me: Brief introduction about yourself.
+Contact Information: Mobile Number:8248064710, saravanan5122002@gmail.com
 
-Contact Information: How to reach out to you.
 
 Technologies Used
 
