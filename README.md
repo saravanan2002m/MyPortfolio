@@ -12,7 +12,7 @@ Technologies Used
 
 Demo
 
-You can see a live demo of the website here.
+You can see a live demo of the website here
 
 Features
 
